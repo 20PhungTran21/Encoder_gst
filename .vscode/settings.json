@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "encoder_gst.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "video_processor.h": "c",
+        "string.h": "c"
+    }
+}

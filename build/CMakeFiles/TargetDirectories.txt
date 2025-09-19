@@ -1,0 +1,3 @@
+/home/phung/Documents/encoder_gst/build/CMakeFiles/main.dir
+/home/phung/Documents/encoder_gst/build/CMakeFiles/edit_cache.dir
+/home/phung/Documents/encoder_gst/build/CMakeFiles/rebuild_cache.dir

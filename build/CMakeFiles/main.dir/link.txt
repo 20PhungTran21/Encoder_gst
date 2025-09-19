@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.dir/c_src/main.c.o CMakeFiles/main.dir/c_src/video_processor.c.o CMakeFiles/main.dir/c_src/encoder_gst.c.o -o main  -lgstapp-1.0 -lgstvideo-1.0 -lgstbase-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 
